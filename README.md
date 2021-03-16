@@ -2,7 +2,7 @@
 A Simple iOS Game Built in Swift 
 
 
-Built with XCode 14 & Swift 
+Built with XCode 12 & Swift 
 
 Preliminary Requirements: 
 - A Mac Machine Running XCode 14+ 
